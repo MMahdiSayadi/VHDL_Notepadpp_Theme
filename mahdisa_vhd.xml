@@ -594,7 +594,7 @@ Credits:
             <WordsStyle name="ATTRIBUTE" styleID="10" fgColor="c29be9" bgColor="0C1021" fontName="Consolas" fontStyle="0" fontSize="10" keywordClass="type1" />
             <WordsStyle name="DIRECTIVE" styleID="9" fgColor="FBDE2D" bgColor="0C1021" fontName="Consolas" fontStyle="0" fontSize="10" />
             <WordsStyle name="DIRECTIVE OPERAND" styleID="10" fgColor="d43587" bgColor="0C1021" fontName="Consolas" fontStyle="1" fontSize="10" />
-            <WordsStyle name="STD FUNCTION" styleID="11" fgColor="01ccb7" bgColor="0C1021" fontName="Consolas" fontStyle="0" fontSize="10" keywordClass="type2" />
+            <WordsStyle name="STD FUNCTION" styleID="11" fgColor="01ccb7" bgColor="0C1021" fontName="Consolas" fontStyle="1" fontSize="10" keywordClass="type2" />
             <WordsStyle name="STD PACKAGE" styleID="12" fgColor="9958db" bgColor="0C1021" fontName="Consolas" fontStyle="0" fontSize="10" keywordClass="type3" />
             <WordsStyle name="STD TYPE" styleID="13" fgColor="db6d52" bgColor="0C1021" fontName="Consolas" fontStyle="0" fontSize="10" keywordClass="type4" />
             <WordsStyle name="USER DEFINE" styleID="14" fgColor="AEAEAE" bgColor="0C1021" fontName="Consolas" fontStyle="0" fontSize="10" keywordClass="type5" />
