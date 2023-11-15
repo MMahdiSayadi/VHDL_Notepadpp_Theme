@@ -588,11 +588,20 @@ Credits:
             <WordsStyle name="STRING" styleID="4" fgColor="C2DAFD" bgColor="0C1021" fontName="Consolas" fontStyle="0" fontSize="10" />
             <WordsStyle name="OPERATOR" styleID="5" fgColor="8080FF" bgColor="0C1021" fontName="Consolas" fontStyle="0" fontSize="10">True False</WordsStyle>
             <WordsStyle name="IDENTIFIER" styleID="6" fgColor="FFFFFF" bgColor="0C1021" fontName="Consolas" fontStyle="0" fontSize="10" />
+            <WordsStyle name="STRING EOL" styleID="7" fgColor="f2dbd7" bgColor="0C1021" fontName="Consolas" fontStyle="0" fontSize="10" />
+            <WordsStyle name="INSTRUCTION" styleID="8" fgColor="f3ecb1" bgColor="0C1021" fontName="Consolas" fontStyle="0" fontSize="10" keywordClass="instre1" />
+            <WordsStyle name="STD OPERATOR" styleID="9" fgColor="01ccb7" bgColor="0C1021" fontName="Consolas" fontStyle="1" fontSize="10" keywordClass="instre2" />
+            <WordsStyle name="ATTRIBUTE" styleID="10" fgColor="c29be9" bgColor="0C1021" fontName="Consolas" fontStyle="0" fontSize="10" keywordClass="type1" />
             <WordsStyle name="STRING EOL" styleID="7" fgColor="F2DBD7" bgColor="0C1021" fontName="Consolas" fontStyle="0" fontSize="10" />
             <WordsStyle name="INSTRUCTION" styleID="8" fgColor="F3ECB1" bgColor="0C1021" fontName="Consolas" fontStyle="0" fontSize="10" keywordClass="instre1" />
             <WordsStyle name="STD OPERATOR" styleID="9" fgColor="01CCB7" bgColor="0C1021" fontName="Consolas" fontStyle="0" fontSize="10" keywordClass="instre2" />
             <WordsStyle name="ATTRIBUTE" styleID="10" fgColor="C29BE9" bgColor="0C1021" fontName="Consolas" fontStyle="0" fontSize="10" keywordClass="type1" />
             <WordsStyle name="DIRECTIVE" styleID="9" fgColor="FBDE2D" bgColor="0C1021" fontName="Consolas" fontStyle="0" fontSize="10" />
+            <WordsStyle name="DIRECTIVE OPERAND" styleID="10" fgColor="d43587" bgColor="0C1021" fontName="Consolas" fontStyle="1" fontSize="10" />
+            <WordsStyle name="STD FUNCTION" styleID="11" fgColor="01ccb7" bgColor="0C1021" fontName="Consolas" fontStyle="1" fontSize="10" keywordClass="type2" />
+            <WordsStyle name="STD PACKAGE" styleID="12" fgColor="9958db" bgColor="0C1021" fontName="Consolas" fontStyle="0" fontSize="10" keywordClass="type3" />
+            <WordsStyle name="STD TYPE" styleID="13" fgColor="db6d52" bgColor="0C1021" fontName="Consolas" fontStyle="0" fontSize="10" keywordClass="type4" />
+            <WordsStyle name="USER DEFINE" styleID="14" fgColor="AEAEAE" bgColor="0C1021" fontName="Consolas" fontStyle="0" fontSize="10" keywordClass="type5" />
             <WordsStyle name="DIRECTIVE OPERAND" styleID="10" fgColor="AEAEAE" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="STD FUNCTION" styleID="11" fgColor="01CCB7" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" keywordClass="type2" />
             <WordsStyle name="STD PACKAGE" styleID="12" fgColor="9958DB" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" keywordClass="type3" />
